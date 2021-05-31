@@ -2,7 +2,7 @@
  
 ## 概要
 * ガントチャートを動的表示するExcelテンプレート
-* GanttChart.xlsx をダウンロードして利用してください。
+* [GanttChart.xlsx](GanttChart.xlsx) をダウンロードして利用してください。
 * 単位期間を変える事で、週単位/日単位など切り替えて表示できます。
 
 * ![](demo.gif)
